@@ -56,15 +56,15 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 9. Select the default environment by clicking on the name in the list to drill down into the detail page.
 
-   ![](Images/img4.png)
+   ![](Images/img04.png)
 
 10. In the **Access** section. Notice the two roles that are available.
 
-    ![](Images/img5.png)
+    ![](Images/img05.png)
 
 11. Click on **Environment Maker**.
 
-    ![](Images/img6.png)
+    ![](Images/img06.png)
 
 12. Notice Tenant is listed; this means everyone in the tenant has this role. For environments other than default, you control this. However, default is special and Tenant can&#39;t be removed from the role.
 
