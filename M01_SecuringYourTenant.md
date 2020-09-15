@@ -48,7 +48,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 6. Click on Environments to navigate back to the list of environments.
 
-   ![](Images/img3.png)
+   ![](Images/img03.png)
 
 7. Next, notice all the environments with **Thrive HR** in the name. These are a set of environments Contoso uses to manage the lifecycle of their Thrive apps; a suite of employee engagement apps. They are built in Thrive HR - Dev and then are promoted to Test -\&gt; UAT-\&gt; Production after testing by your admin team.
 
