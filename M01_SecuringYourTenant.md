@@ -34,7 +34,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 1. Logged in with the **Lab Admin account** in an in-private browser session. Navigate [https://aka.ms/ppac](https://aka.ms/ppac)and select **Environments**.
 2. Review the list of environments. These are the environments that are available for you to manage.
 
-![](RackMultipart20200915-4-1egjo7f_html_873b2d975ec48f86.png)
+![](Images/img1.png)
 
 3. Notice the **type column** , you can see Contoso already is using several types of environments.
 
@@ -43,55 +43,53 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 5. Click on the environment name to see the details page. If you click on See All in the right corner it will take you to additional details that include how many days left on the trial.
 
-![](RackMultipart20200915-4-1egjo7f_html_e397e3b8c41162a1.png)
+![](Images/img2.png)
 
 6. Click on Environments to navigate back to the list of environments.
 
-![](RackMultipart20200915-4-1egjo7f_html_ce89efe1d7e67b36.png)
+![](Images/img3.png)
 
 7. Next, notice all the environments with **Thrive HR** in the name. These are a set of environments Contoso uses to manage the lifecycle of their Thrive apps; a suite of employee engagement apps. They are built in Thrive HR - Dev and then are promoted to Test -\&gt; UAT-\&gt; Production after testing by your admin team.
 
-
 8. Locate the environment with a type of **Default**. This is the environment in which all users are makers and can build their own apps and flows. Think of this environment as supporting personal productivity use of the platform. This is also the default location used by any customizations built with Power Apps in Office apps. The Default environment can&#39;t be deleted, but you can rename it to make it clear its purpose. For example, some name it Personal Productivity like we have in this tenant.
-
 
 9. Select the default environment by clicking on the name in the list to drill down into the detail page.
 
-![](RackMultipart20200915-4-1egjo7f_html_18e7eb66602e2b74.png)
+![](Images/img4.png)
 
 10. In the **Access** section. Notice the two roles that are available.
 
-![](RackMultipart20200915-4-1egjo7f_html_184e012e9f036c37.png)
+![](Images/img5.png)
 
 11. Click on **Environment Maker**.
 
-![](RackMultipart20200915-4-1egjo7f_html_be67614b6f1a2c6e.png)
+![](Images/img6.png)
 
 12. Notice Tenant is listed; this means everyone in the tenant has this role. For environments other than default, you control this. However, default is special and Tenant can&#39;t be removed from the role.
 
-![](RackMultipart20200915-4-1egjo7f_html_a1abc1f35e62b254.png)
+![](Images/img7.png)
 
 13. Go back and in the **Resources** section, click **Power Apps**.
 
-![](RackMultipart20200915-4-1egjo7f_html_7b5281cec63603ba.png)
+![](Images/img8.png)
 
 14. These are apps built by users in your company. Notice many of them are just test names because this is where a lot of users will experiment and build their first app. As you scroll down the list you might notice some names are more deliberate e.g. Product Showcase. Later in the course we will talk about how to identify these upcoming apps so you can help give them the guidance to ensure they mature and have adequate governance.
 
-![](RackMultipart20200915-4-1egjo7f_html_ca1531ad644adafd.png)
+![](Images/img9.png)
 
 15. Go back to the previous page and click on **Flows** in the **Resources** section and you will notice a similar pattern to apps.
 
-![](RackMultipart20200915-4-1egjo7f_html_1199401a22fa788f.png)
+![](Images/img10.png)
 
 16. From here you can quickly turn off a flow that is active, as well as delete it if necessary.
 
 17. Click the **…** button on one of the flows and select **Details**.
 
-![](RackMultipart20200915-4-1egjo7f_html_bf7e13c6a635e84f.png)
+![](Images/img11.png)
 
 18. From here you can see who created it, who the owner is as well as what connections it is using. You can also view and share the flow with others from here. We will discuss that more later in the course.
 
-![](RackMultipart20200915-4-1egjo7f_html_f50a69660894c9fb.png)
+![](Images/img12.png)
 
 ### Task 2: Review existing Data policies
 
