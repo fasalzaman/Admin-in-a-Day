@@ -35,7 +35,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 2. Review the list of environments. These are the environments that are available for you to manage.
 
-   ![](Images/img1.png)
+   ![](Images/img01.png)
 
 3. Notice the **type column** , you can see Contoso already is using several types of environments.
 
@@ -44,7 +44,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 5. Click on the environment name to see the details page. If you click on See All in the right corner it will take you to additional details that include how many days left on the trial.
 
-   ![](Images/img2.png)
+   ![](Images/img02.png)
 
 6. Click on Environments to navigate back to the list of environments.
 
