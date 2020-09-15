@@ -204,13 +204,13 @@ One additional role (Contoso CDS Model Driven User) was created. This role is de
 
 2. Filter on **Other**.
 
-![](RackMultipart20200915-4-1egjo7f_html_84ce112d88e193fb.png)
+  ![](Images/img25.png)
 
 3. Click to open the **Contoso CDS Model Driven User** security role.
 
 4. Select the Core Records tab and review it. Don&#39;t make any changes. Locate the Account and Contact rows and make sure none of the circles have been granted access to the data. An empty place means it isn&#39;t granting access.
 
-![](RackMultipart20200915-4-1egjo7f_html_fb2105e325b41b44.png)
+   ![](Images/img26.png)
 
 5. Review the rest of the tabs.
 
@@ -226,11 +226,11 @@ One additional role (Contoso CDS Model Driven User) was created. This role is de
 
 11. Click on the **Read** circle of the Account entity 4 times. The circle will become green/filled in. Each click progressively grants more access.
 
-![](RackMultipart20200915-4-1egjo7f_html_82452bfd98df5366.png)
+    ![](Images/img27.png)
 
 12. Look at the **Key** section and review the different security levels. When reviewing security roles with the developers you should talk through any security role that grant full organization level access. If this is done on an entity shared by another application it could result in bypassing limited access to that data. Security roles for users should be looked at in the context of all applications installed in the environment and the sensitivity of the data.
 
-![](RackMultipart20200915-4-1egjo7f_html_ac7f10615505d0b6.png)
+    ![](Images/img28.png)
 
 13. We are not going to save our changes we made, so Close the security role browser tab without saving.
 
