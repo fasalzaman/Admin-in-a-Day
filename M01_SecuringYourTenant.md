@@ -110,15 +110,15 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 4. You will also notice a DLP for **Thrive Exceptions**. That team had worked with your IT department to agree on exceptions they need for their environment and their environment would be excluded from the Contoso Global DLP.
 
-![](Images/img13.png)
+   ![](Images/img13.png)
 
 5. Select the **Global DLP** and click **Edit Policy**.
 
-![](Images/img14.png)
+   ![](Images/img14.png)
 
 6. Select **Connectors** and review the **Business** connectors.
 
-![](Images/img15.png)
+   ![](Images/img15.png)
 
 7. Select **Data Policies** again.
 
@@ -126,7 +126,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 9. Click on the **Connector** and select the **Business** tab. Notice it copied Common Data Service and SharePoint being in the Business data only from the normal global policy and it added Microsoft Teams, Office O365 Outlook and Office 365 Users.
 
-![](Images/img16.png)
+   ![](Images/img16.png)
 
 # Exercise 2: Explore a team development environment
 
