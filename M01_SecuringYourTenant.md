@@ -68,15 +68,15 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 12. Notice Tenant is listed; this means everyone in the tenant has this role. For environments other than default, you control this. However, default is special and Tenant can&#39;t be removed from the role.
 
-    ![](Images/img7.png)
+    ![](Images/img07.png)
 
 13. Go back and in the **Resources** section, click **Power Apps**.
 
-    ![](Images/img8.png)
+    ![](Images/img08.png)
 
 14. These are apps built by users in your company. Notice many of them are just test names because this is where a lot of users will experiment and build their first app. As you scroll down the list you might notice some names are more deliberate e.g. Product Showcase. Later in the course we will talk about how to identify these upcoming apps so you can help give them the guidance to ensure they mature and have adequate governance.
 
-    ![](Images/img9.png)
+    ![](Images/img09.png)
 
 15. Go back to the previous page and click on **Flows** in the **Resources** section and you will notice a similar pattern to apps.
 
