@@ -144,15 +144,15 @@ In this task, you will check out one of the Power Apps the team built as well as
 
 2. Click on the environment selector in the upper right corner of the page.
 
-![](RackMultipart20200915-4-1egjo7f_html_79eb42473f6b3623.png)
+   ![](Images/img17.png)
 
 3. In the list of environments select **Device Ordering Development** environment.
 
-![](RackMultipart20200915-4-1egjo7f_html_832114691c3aa64e.png)
+   ![](Images/img18.png)
 
 4. Select **Solutions** in the left navigation. Solutions are containers that track Power Platform resources and allow you to transport (export/import) them into other environments as a group of assets.
 
-![](RackMultipart20200915-4-1egjo7f_html_e795388543efb690.png)
+   ![](Images/img19.png)
 
 Review this list and notice that there are three solutions. Default and Common Data Service Default Solution are in every environment. The Contoso Device Order Management Solution is one created by the team to track their app resources.
 
@@ -160,27 +160,27 @@ Review this list and notice that there are three solutions. Default and Common D
 
 6. Review the contents of the solution, notice there are several types of components tracked by the solution, including CDS entities, Power Apps and Power Automate flows.
 
-![](RackMultipart20200915-4-1egjo7f_html_2cf38190eeb7374d.png)
+   ![](Images/img20.png)
 
 7. Click on the … next to **Device Ordering App** – Review the actions available, and then click Play which will run the app
 
-![](RackMultipart20200915-4-1egjo7f_html_d550802260752a82.png)
+   ![](Images/img21.png)
 
 8. Because this is your first run, you will see a permission dialog for the connectors used by the app. Click Allow to proceed.
 
-![](RackMultipart20200915-4-1egjo7f_html_6a1289456835d15d.png)
+   ![](Images/img22.png)
 
 9. The app will open in a new browser tab; briefly review the app. This is a Power Apps canvas app. After reviewing close the browser tab.
 
 10. Back on the list of solution components select … on the Device Ordering App again and this time click the **Details**. Here you can review the versions of the app, what connections are used, and the flows it uses.
 
-![](RackMultipart20200915-4-1egjo7f_html_4da0e4c148bfc415.png)
+    ![](Images/img23.png)
 
 11. Click the browser back button to return to the solution component list.
 
 12. Click the … next to the **Device Procurement** that has a type of Model-driven App and select Play. This will launch the app designed for the back-office users, it is a PowerApps model-driven app.
 
-![](RackMultipart20200915-4-1egjo7f_html_273b786a96c82a9e.png)
+    ![](Images/img24.png)
 
 13. After a moment reviewing the app, close the browser tab to return to the solution list. Stay here as you will start from this location in the next task.
 
