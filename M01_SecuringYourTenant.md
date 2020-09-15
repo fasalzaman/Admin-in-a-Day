@@ -204,7 +204,7 @@ One additional role (Contoso CDS Model Driven User) was created. This role is de
 
 2. Filter on **Other**.
 
-  ![](Images/img25.png)
+   ![](Images/img25.png)
 
 3. Click to open the **Contoso CDS Model Driven User** security role.
 
