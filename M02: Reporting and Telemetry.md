@@ -36,6 +36,31 @@ Now in this exercise, you will explore the following key components
 
 2.	Select **Power Platform CoE** environment in the environment selector.
 
+ ![](Images%20MOD_2/img01.png)
+ 
+ 3.	Select Apps in the left navigation and you should see a list of available apps in this environment – click on **Power Platform Admin View.**
+ 
+ ![](Images%20MOD_2/img02.png)
+ 
+ 4.	When the app starts you will land on the Power Platform Dashboard page.  This dashboard gives you a quick look at the most active makers, and environments.
+ 
+ ![](Images%20MOD_2/img03.png)
+ 
+ 5.	Click on Apps and you will see a list of all apps in all environments without having to visit each environment.  The Flows navigation link does the same thing for Microsoft Power Automate flows
+
+6.	Click on the Device Procurement app in the list to open the app details. 
+
+7.	On the details notice at the top you can see where the app is in the review process.  
+
+![](Images%20MOD_2/img04.png)
+
+8.	In the **Audit** tab you can see the Business Justification provided by the app maker using the Developer Compliance Center app.  In the bottom part is where you as an admin can provide your risk assessment.  You can also tag the app to show in the App Catalog and make it featured.  You can customize the CoE entities to add additional fields here if needed.
+
+![](Images%20MOD_2/image%205.png)
+
+
+ 
+
  
  
 
