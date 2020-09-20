@@ -299,8 +299,7 @@ echo push code to new repo
 git  -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push origin master
 
  
- 
-      ![](Images_MOD4/img44.png)
+   ![](Images_MOD4/img44.png)
      
       
 13.	Add Solution Name variable.
