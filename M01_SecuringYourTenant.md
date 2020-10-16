@@ -54,44 +54,6 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 8. Locate the environment with a type of **Default**. This is the environment in which all users are makers and can build their own apps and flows. Think of this environment as supporting personal productivity use of the platform. This is also the default location used by any customizations built with Power Apps in Office apps. The Default environment can&#39;t be deleted, but you can rename it to make it clear its purpose. For example, some name it Personal Productivity like we have in this tenant.
 
-9. Select the default environment by clicking on the name in the list to drill down into the detail page.
-
-   ![](Images/img04.png)
-
-10. In the **Access** section. Notice the two roles that are available.
-
-    ![](Images/img05.png)
-
-11. Click on **Environment Maker**.
-
-    ![](Images/img06.png)
-
-12. Notice Tenant is listed; this means everyone in the tenant has this role. For environments other than default, you control this. However, default is special and Tenant can&#39;t be removed from the role.
-
-    ![](Images/img07.png)
-
-13. Go back and in the **Resources** section, click **Power Apps**.
-
-    ![](Images/img08.png)
-
-14. These are apps built by users in your company. Notice many of them are just test names because this is where a lot of users will experiment and build their first app. As you scroll down the list you might notice some names are more deliberate e.g. Product Showcase. Later in the course we will talk about how to identify these upcoming apps so you can help give them the guidance to ensure they mature and have adequate governance.
-
-    ![](Images/img09.png)
-
-15. Go back to the previous page and click on **Flows** in the **Resources** section and you will notice a similar pattern to apps.
-
-    ![](Images/img10.png)
-
-16. From here you can quickly turn off a flow that is active, as well as delete it if necessary.
-
-17. Click the **…** button on one of the flows and select **Details**.
-
-    ![](Images/img11.png)
-
-18. From here you can see who created it, who the owner is as well as what connections it is using. You can also view and share the flow with others from here. We will discuss that more later in the course.
-
-    ![](Images/img12.png)
-
 ### Task 2: Review existing Data policies
 
 1. Navigate to the admin portal [https://aka.ms/ppac](https://aka.ms/ppac) or [https://admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/)
