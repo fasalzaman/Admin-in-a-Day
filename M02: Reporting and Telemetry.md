@@ -114,6 +114,8 @@ Now in this exercise, you will explore the following key components
 
 ![](Images%20MOD_2/image%2014.png)
 
+Now, Click [here](https://fasalspektrastorage.blob.core.windows.net/admin-in-a-day/Dashboard-PowerPlatformAdminDashboard-2020-10-13.pbit) to download Dashboard-PowerPlatformAdminDashboard file 
+
 11.	Locate the folder containing lab files you downloaded and select the Dashboard-PowerPlatformAdminDashboard file
 
 ![](Images%20MOD_2/image%2015.png)
